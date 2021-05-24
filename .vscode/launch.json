@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ColorChooser",
+            "request": "launch",
+            "mainClass": "ColorChooser",
+            "projectName": "JeffZhuoM13pixLab_be487b26"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntArrayWorkerTester",
+            "request": "launch",
+            "mainClass": "IntArrayWorkerTester",
+            "projectName": "JeffZhuoM13pixLab_be487b26"
+        },
+        {
+            "type": "java",
+            "name": "Launch Picture",
+            "request": "launch",
+            "mainClass": "Picture",
+            "projectName": "JeffZhuoM13pixLab_be487b26"
+        },
+        {
+            "type": "java",
+            "name": "Launch PictureExplorer",
+            "request": "launch",
+            "mainClass": "PictureExplorer",
+            "projectName": "JeffZhuoM13pixLab_be487b26"
+        },
+        {
+            "type": "java",
+            "name": "Launch PictureTester",
+            "request": "launch",
+            "mainClass": "PictureTester",
+            "projectName": "JeffZhuoM13pixLab_be487b26"
+        }
+    ]
+}
